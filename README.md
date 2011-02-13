@@ -1,3 +1,5 @@
+![Alt text](/dglancy/iPhone-BankBalance/docs/bank-balance-banner.png" "Bank Balance Image Banner")
+
 # Bank Balance
 A simple and secure application for viewing your bank account balances with one-touch that works with both "Allied Irish Banks" and "Bank of Ireland" online banking services.
 
