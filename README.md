@@ -30,3 +30,17 @@ I wrote a simple [user guide](/dglancy/iPhone-BankBalance/raw/master/docs/usergu
 Any queries, issues or request for a pre-built binary (if you don't have an iOS Developer Account or knowledge of XCode) please raise an [Issue](https://github.com/dglancy/iPhone-BankBalance/issues) and I'll try and help as much as I can.
 
 _Damien Glancy, Dublin, Ireland._
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21384209-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
