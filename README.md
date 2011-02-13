@@ -1,4 +1,4 @@
-# A simple and secure application for viewing your bank account balances with one-touch. #
+# A simple and secure application for viewing your bank account balances with one-touch.
 
 Works with both "Allied Irish Banks" and "Bank of Ireland" online banking services.
 
