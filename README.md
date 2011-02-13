@@ -3,16 +3,14 @@ A simple and secure application for viewing your bank account balances with one-
 
 Open-source for complete transparency
 
-Main Features
---------------
+## Main Features
 
 * Amazingly fast "one-touch" access to your latest account balances.
 * Single screen view of your accounts held with both AIB Bank and Bank of Ireland.
 * Application PIN to protect your balances from prying eyes.
 * Works over either 3G or WiFi connections.
 
-Security
---------
+## Security
 
 * Open-source: Browse and explore the code yourself before compiling and installing onto your iPhone for complete piece-of-mind.
 * Very strong security: Your online account details and PIN are stored on the iPhone’s internal “Keychain Service” to ensure maximum protection.
