@@ -25,4 +25,6 @@ This is a simple iPhone application that I wrote for myself and am now releasing
 
 I wrote a simple [user guide](/dglancy/iPhone-BankBalance/raw/master/docs/userguide/Bank_Balance_User_Guide_Text.html) to give user's an idea of what the application does and what it looks like.
 
-_Damien Glancy, Dublin, Ireland. Feb 2011_
+_Damien Glancy,_
+_Dublin, Ireland._
+_Feb 2011_
