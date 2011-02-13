@@ -1,7 +1,7 @@
 # Bank Balance
 A simple and secure application for viewing your bank account balances with one-touch that works with both "Allied Irish Banks" and "Bank of Ireland" online banking services.
 
-Open-source for complete transparency
+This is a simple iPhone application that I wrote for myself and am now releasing as open-source for complete transparency.
 
 ## Main Features
 
