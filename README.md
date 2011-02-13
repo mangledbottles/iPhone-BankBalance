@@ -27,4 +27,6 @@ This is a simple iPhone application that I wrote for myself and am now releasing
 
 I wrote a simple [user guide](/dglancy/iPhone-BankBalance/raw/master/docs/userguide/Bank_Balance_User_Guide_Text.html) to give user's an idea of what the application does and what it looks like.
 
+Any queries, issues or request for a pre-built binary (if you don't have an iOS Developer Account or knowledge of XCode) please raise an [Issue](https://github.com/dglancy/iPhone-BankBalance/issues) and I'll try and help as much as I can.
+
 _Damien Glancy, Dublin, Ireland._
