@@ -31,7 +31,7 @@ Any queries, issues or request for a pre-built binary (if you don't have an iOS 
 
 _Damien Glancy, Dublin, Ireland._
 
-<!-- <script type="text/javascript">
+<div><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-21384209-1']);
@@ -45,4 +45,4 @@ _Damien Glancy, Dublin, Ireland._
 
 </script>
 
--->
+</div>
