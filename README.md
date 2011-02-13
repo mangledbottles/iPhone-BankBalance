@@ -20,3 +20,7 @@ This is a simple iPhone application that I wrote for myself and am now releasing
 * Use’s 128-bit SSL to communicate with the bank’s online internet services.
 * Safe to use over unsecured public WiFi connections due to the use of SSL.
 * Ability to set an application PIN to protect your balances from prying eyes if your phone is stolen or being used by someone else.
+
+## Security
+
+I wrote a simple [User guide](/dglancy/iPhone-BankBalance/raw/master/docs/userguide/Bank_Balance_User_Guide_Text.html) to give user's an idea of what the application does and what it looks like.
