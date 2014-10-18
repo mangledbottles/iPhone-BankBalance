@@ -1,5 +1,3 @@
-![Alt text](/dglancy/iPhone-BankBalance/raw/master/docs/bank-balance-banner.png" "Bank Balance Image Banner")
-
 # Bank Balance for iPhone, iPod Touch and iPad
 __for use with Bank of Ireland and AIB Bank internet banking services__
 
@@ -29,4 +27,3 @@ I wrote a simple [user guide](/dglancy/iPhone-BankBalance/raw/master/docs/usergu
 
 Any queries, issues or request for a pre-built binary (if you don't have an iOS Developer Account or knowledge of XCode) please raise an [Issue](https://github.com/dglancy/iPhone-BankBalance/issues) and I'll try and help as much as I can.
 
-_Damien Glancy, Dublin, Ireland._
